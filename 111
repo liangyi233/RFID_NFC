@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>产品展示页面</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>我的产品</h1>
+        <nav>
+            <a href="#features">产品特点</a>
+            <a href="#gallery">图片展示</a>
+            <a href="#contact">联系方式</a>
+        </nav>
+    </header>
+    <main>
+        <section id="intro">
+            <h2>产品简介</h2>
+            <p>这是一个简洁的静态网页模板，适用于展示你的产品。</p>
+        </section>
+        <section id="features">
+            <h2>产品特点</h2>
+            <ul>
+                <li>高性能</li>
+                <li>易用性强</li>
+                <li>设计美观</li>
+            </ul>
+        </section>
+        <section id="gallery">
+            <h2>图片展示</h2>
+            <div class="gallery">
+                <img src="https://via.placeholder.com/200x150?text=产品图1" alt="产品图1">
+                <img src="https://via.placeholder.com/200x150?text=产品图2" alt="产品图2">
+                <img src="https://via.placeholder.com/200x150?text=产品图3" alt="产品图3">
+            </div>
+        </section>
+        <section id="contact">
+            <h2>联系方式</h2>
+            <form id="contactForm">
+                <input type="text" placeholder="你的名字" required>
+                <input type="email" placeholder="你的邮箱" required>
+                <textarea placeholder="留言内容" required></textarea>
+                <button type="submit">发送</button>
+            </form>
+            <div id="result"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 我的产品公司</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
