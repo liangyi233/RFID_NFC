@@ -150,7 +150,7 @@ RDID_NFC
         <div class="md:w-1/2 flex justify-center">
           <div class="relative">
             <div class="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient animate-float">
-              <img src="https://picsum.photos/id/20/400/400" alt="RFID/NFC technology" class="absolute inset-0 w-full h-full rounded-full object-cover p-2">
+              <img src="https://picsum.photos/id/26/400/400" alt="NFC payment illustration" class="absolute inset-0 w-full h-full rounded-full object-cover p-2">
             </div>
             <div class="absolute -bottom-4 -right-4 bg-white dark:bg-dark-card p-3 rounded-lg shadow-lg">
               <div class="flex items-center">
