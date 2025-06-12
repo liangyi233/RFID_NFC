@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+RDID_NFC
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -119,17 +119,17 @@
       <div class="flex flex-col md:flex-row items-center">
         <div class="md:w-1/2 mb-10 md:mb-0">
           <h1 class="text-[clamp(2.5rem,5vw,4rem)] font-bold leading-tight text-shadow">
-            Hello, I'm <span class="text-primary">Your Name</span>
+            第六组物联网 <span class="text-primary">RFID好评智能卡</span>
           </h1>
           <p class="mt-4 text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-xl">
-            A passionate developer focused on creating beautiful, functional, and user-friendly applications.
+            专注于为商家提供美观、易用的好评智能卡
           </p>
           <div class="mt-8 flex flex-wrap gap-4">
             <a href="#projects" class="px-6 py-3 bg-primary hover:bg-primary/90 text-white rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
-              <i class="fa fa-code mr-2"></i>View Projects
+              <i class="fa fa-code mr-2"></i>跳转页面
             </a>
             <a href="#contact" class="px-6 py-3 bg-white dark:bg-dark-card hover:bg-gray-100 dark:hover:bg-dark-card/80 text-gray-800 dark:text-gray-200 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
-              <i class="fa fa-envelope mr-2"></i>Contact Me
+              <i class="fa fa-envelope mr-2"></i>联系我们
             </a>
           </div>
           <div class="mt-10 flex space-x-6">
@@ -155,7 +155,7 @@
             <div class="absolute -bottom-4 -right-4 bg-white dark:bg-dark-card p-3 rounded-lg shadow-lg">
               <div class="flex items-center">
                 <div class="w-3 h-3 bg-green-500 rounded-full animate-pulse mr-2"></div>
-                <span class="font-medium">Currently working</span>
+                <span class="font-medium">好评智能卡</span>
               </div>
             </div>
           </div>
